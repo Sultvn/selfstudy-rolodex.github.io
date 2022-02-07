@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pracice-monster-rolodex/static/css/main.a1567481.css",
+    "main.js": "/pracice-monster-rolodex/static/js/main.fe73e5bf.js",
+    "static/js/787.b84a1a1a.chunk.js": "/pracice-monster-rolodex/static/js/787.b84a1a1a.chunk.js",
+    "index.html": "/pracice-monster-rolodex/index.html",
+    "main.a1567481.css.map": "/pracice-monster-rolodex/static/css/main.a1567481.css.map",
+    "main.fe73e5bf.js.map": "/pracice-monster-rolodex/static/js/main.fe73e5bf.js.map",
+    "787.b84a1a1a.chunk.js.map": "/pracice-monster-rolodex/static/js/787.b84a1a1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1567481.css",
+    "static/js/main.fe73e5bf.js"
+  ]
+}
